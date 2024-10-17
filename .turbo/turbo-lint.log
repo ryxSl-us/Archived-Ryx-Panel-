@@ -1,0 +1,4 @@
+
+> pyrodactyl@3.0.0 lint
+> eslint ./resources/scripts/**/*.{ts,tsx} --fix
+

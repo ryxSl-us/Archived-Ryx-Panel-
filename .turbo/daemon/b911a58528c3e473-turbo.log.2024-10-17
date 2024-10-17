@@ -1,0 +1,24 @@
+2024-10-17T06:09:43.160556Z  WARN daemon_server: turborepo_lib::commands::daemon: daemon already running
+2024-10-17T06:09:46.176692Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("vite.config.ts.timestamp-1729145386143-a357f5665e6ed.mjs")}
+2024-10-17T06:09:46.177370Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-10-17T06:09:46.276334Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2024-10-17T06:09:46.276402Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2024-10-17T06:09:48.175815Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("vite.config.ts.timestamp-1729145386143-a357f5665e6ed.mjs")}
+2024-10-17T06:09:48.175854Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-10-17T06:09:48.478585Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2024-10-17T06:09:48.478661Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2024-10-17T06:09:51.374149Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".swc")}
+2024-10-17T06:09:51.374187Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-10-17T06:09:51.974148Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2024-10-17T06:09:51.974170Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2024-10-17T06:42:34.848703Z  WARN daemon_server: turborepo_lib::commands::daemon: daemon already running
+2024-10-17T06:42:36.217533Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("vite.config.ts.timestamp-1729147356158-4d947f667dc08.mjs"), AnchoredSystemPathBuf("")}
+2024-10-17T06:42:36.217569Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-10-17T06:42:37.417915Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("vite.config.ts.timestamp-1729147356158-4d947f667dc08.mjs")}
+2024-10-17T06:42:37.417936Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-10-17T06:42:37.917510Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("")}
+2024-10-17T06:42:37.917544Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({}))
+2024-10-17T06:43:02.224448Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("resources\\scripts\\routers\\DashboardRouter.tsx")}
+2024-10-17T06:43:02.224742Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2024-10-17T06:43:02.318058Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("resources\\scripts\\components\\auth\\ForgotPasswordContainer.tsx"), AnchoredSystemPathBuf("resources\\scripts\\routers\\DashboardRouter.tsx")}
+2024-10-17T06:43:02.318076Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))

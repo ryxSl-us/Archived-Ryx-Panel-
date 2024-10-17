@@ -1,0 +1,41 @@
+
+> pyrodactyl@3.0.0 build
+> vite build
+
+[36mvite v5.4.0 [32mbuilding for production...[36m[39m
+
+  ⚡ Million.js 3.1.11
+  - Tip:     use // million-ignore for errors
+  - Hotline: https://million.dev/hotline
+
+
+transforming...
+ ⚡ <NotFound> now renders ~78% faster
+ 🎁 Million Wrapped: https://million.dev/wrapped/16064eb0ab45693667b42ef98b9d9872
+ ⚡ <HugeIconsClock> now renders ~100% faster
+ ⚡ <HugeIconsConnections> now renders ~100% faster
+ ⚡ <HugeIconsCloudUp> now renders ~100% faster
+ ⚡ <HugeIconsDashboardSettings> now renders ~100% faster
+ ⚡ <HugeIconsController> now renders ~100% faster
+ ⚡ <HugeIconsFolder> now renders ~100% faster
+ ⚡ <HugeIconsPeople> now renders ~100% faster
+ ⚡ <PaginationFooter> now renders ~43% faster
+ ⚡ <AllocationRow> now renders ~29% faster
+ ⚡ <StatusPill> now renders ~75% faster
+ ⚡ <ServerDetailsBlock> now renders ~43% faster
+ ⚡ <Spinner> now renders ~100% faster
+ ⚡ <ItemContainer> now renders ~20% faster
+ ⚡ <HugeIconsEggs> now renders ~100% faster
+resources/scripts/components/elements/SwitchV2.tsx (1:0): Error when using sourcemap for reporting an error: Can't resolve original location of error.
+ ⚡ <HugeIconsArrowLeft> now renders ~100% faster
+ ⚡ <ConfigureTwoFactorForm> now renders ~8% faster
+ ⚡ <ScheduleCronRow> now renders ~63% faster
+ ⚡ <HugeIconsX> now renders ~100% faster
+ ⚡ <HugeIconsDelete> now renders ~100% faster
+ ⚡ <HugeIconsFileDownload> now renders ~100% faster
+ ⚡ <HugeIconsFileSecurity> now renders ~100% faster
+ ⚡ <HugeIconsCopy> now renders ~100% faster
+ ⚡ <HugeIconsFileZip> now renders ~100% faster
+ ⚡ <HugeIconsMoveTo> now renders ~100% faster
+ ⚡ <HugeIconsPencil> now renders ~100% faster
+ ⚡ <PermissionRow> now renders ~33% faster
