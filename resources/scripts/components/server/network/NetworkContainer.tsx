@@ -1,3 +1,4 @@
+import { ArrowBigRight, DollarSign } from 'lucide-react';
 import { For } from 'million/react';
 import { useEffect, useState } from 'react';
 import isEqual from 'react-fast-compare';
@@ -14,7 +15,6 @@ import { ServerContext } from '@/state/server';
 
 import { useDeepCompareEffect } from '@/plugins/useDeepCompareEffect';
 import { useFlashKey } from '@/plugins/useFlash';
-import { ArrowBigRight, DollarSign } from 'lucide-react';
 
 const NetworkContainer = () => {
     const [_, setLoading] = useState(false);
@@ -103,13 +103,19 @@ const NetworkContainer = () => {
                             </For>
                         </div>
                     </div>
-                    <div className="flex flex-col items-center space-y-4 mt-6">
-                        <button className="flex items-center justify-center bg-zinc-600 text-white font-semibold py-2 px-4 rounded-lg shadow hover:bg-stone-700 transition duration-200 transform hover:scale-105 ease-in-out" onClick={() => window.open('https://dashbeta.astralaxis.tech', '_blank')} >
-                            <DollarSign className="w-5 h-5 mr-2 "/>
+                    <div className='flex flex-col items-center space-y-4 mt-6'>
+                        <button
+                            className='flex items-center justify-center bg-zinc-600 text-white font-semibold py-2 px-4 rounded-lg shadow hover:bg-stone-700 transition duration-200 transform hover:scale-105 ease-in-out'
+                            onClick={() => window.open('https://dashbeta.astralaxis.tech', '_blank')}
+                        >
+                            <DollarSign className='w-5 h-5 mr-2 ' />
                             Purchase more
                         </button>
-                        <button className="flex items-center justify-center bg-red-900 text-white font-semibold py-2 px-4 rounded-lg shadow hover:bg-red-700 transition duration-200 transform hover:scale-105 ease-in-out" onClick={() => navigate(-1)}>
-                            <ArrowBigRight className="w-5 h-5 mr-2" />
+                        <button
+                            className='flex items-center justify-center bg-red-900 text-white font-semibold py-2 px-4 rounded-lg shadow hover:bg-red-700 transition duration-200 transform hover:scale-105 ease-in-out'
+                            onClick={() => navigate(-1)}
+                        >
+                            <ArrowBigRight className='w-5 h-5 mr-2' />
                             Go back
                         </button>
                     </div>

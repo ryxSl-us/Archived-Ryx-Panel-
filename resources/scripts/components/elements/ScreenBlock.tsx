@@ -1,6 +1,4 @@
 // million-ignore
-
-
 import { DiscordLogoIcon } from '@radix-ui/react-icons';
 import { ArrowBigRight, DollarSign, ServerCrash } from 'lucide-react';
 import { Link } from 'react-router-dom';
@@ -41,19 +39,23 @@ const NotFound = () => {
                         We couldn&apos;t find the page you&apos;re looking for. You may have lost access, or the page
                         may have been removed. Here are some helpful links instead:
                     </p>
-                    <div className="flex items-center space-x-4">
-                        <button className="flex items-center justify-start bg-zinc-600 text-white font-semibold py-2 px-4 rounded-lg shadow hover:bg-stone-700 transition duration-200 transform hover:scale-105 ease-in-out"  onClick={() => window.open('https://discord.gg/GYe6wzKrxc', '_blank')}>
-                            <DiscordLogoIcon className="w-5 h-5 mr-2 "/>
+                    <div className='flex items-center space-x-4'>
+                        <button
+                            className='flex items-center justify-start bg-zinc-600 text-white font-semibold py-2 px-4 rounded-lg shadow hover:bg-stone-700 transition duration-200 transform hover:scale-105 ease-in-out'
+                            onClick={() => window.open('https://discord.gg/GYe6wzKrxc', '_blank')}
+                        >
+                            <DiscordLogoIcon className='w-5 h-5 mr-2 ' />
                             Contact Discord
                         </button>
-                        <button className="flex items-center justify-center bg-red-900 text-white font-semibold py-2 px-4 rounded-lg shadow hover:bg-red-700 transition duration-200 transform hover:scale-105 ease-in-out" onClick={() => window.location.href = '/'}>
-                            <ServerCrash className="w-5 h-5 mr-2" />
+                        <button
+                            className='flex items-center justify-center bg-red-900 text-white font-semibold py-2 px-4 rounded-lg shadow hover:bg-red-700 transition duration-200 transform hover:scale-105 ease-in-out'
+                            onClick={() => (window.location.href = '/')}
+                        >
+                            <ServerCrash className='w-5 h-5 mr-2' />
                             Your Servers
                         </button>
                     </div>
-                    <div className='flex flex-col gap-2'>
-                        
-                    </div>
+                    <div className='flex flex-col gap-2'></div>
                 </div>
                 <img
                     alt=''
@@ -64,11 +66,7 @@ const NotFound = () => {
                     loading='lazy'
                     decoding='async'
                 />
-                
-
             </div>
-            
-            
         </>
     );
 };

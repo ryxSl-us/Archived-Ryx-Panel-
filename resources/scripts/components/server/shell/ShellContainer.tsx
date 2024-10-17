@@ -1,10 +1,11 @@
-import React, { useState, useEffect } from 'react';
+import React, { useEffect, useState } from 'react';
 import { toast } from 'sonner';
-import { Dialog } from '@/components/elements/dialog';
-import ServerContentBlock from '@/components/elements/ServerContentBlock';
+
 import { MainPageHeader } from '@/components/elements/MainPageHeader';
-import HugeIconsEggs from '@/components/elements/hugeicons/Egg';
+import ServerContentBlock from '@/components/elements/ServerContentBlock';
+import { Dialog } from '@/components/elements/dialog';
 import HugeIconsAlert from '@/components/elements/hugeicons/Alert';
+import HugeIconsEggs from '@/components/elements/hugeicons/Egg';
 
 const SoftwareContainer = () => {
     const [disabledModalVisible, setDisabledModalVisible] = useState(true);
@@ -73,8 +74,8 @@ const SoftwareContainer = () => {
                     <div className='flex flex-col pb-1  m-2'>
                         <h1 className='text-xl'>Danger Zone</h1>
                         <p className='text-sm text-neutral-300'>
-                            During this process some files may be deleted or modified either make a backup before
-                            hand or pick the option when prompted.
+                            During this process some files may be deleted or modified either make a backup before hand
+                            or pick the option when prompted.
                         </p>
                     </div>
                 </div>

@@ -1,5 +1,4 @@
 //million-ignore
-
 import { useStoreState } from 'easy-peasy';
 import type { FormikHelpers } from 'formik';
 import { Formik } from 'formik';
@@ -106,9 +105,9 @@ function LoginContainer() {
                             src='https://i.imgur.com/Hbum4fc.png'
                         /> */}
                         {/* <NavLink to={'/'} className='flex shrink-0 h-full w-fit'> */}
-                        <div className="w-32 h-62">
-        <LogoLogin />  {/* Logo component should be inside the div for size control */}
-    </div>
+                        <div className='w-32 h-62'>
+                            <LogoLogin /> {/* Logo component should be inside the div for size control */}
+                        </div>
                     </div>
                     <div aria-hidden className='my-8 bg-[#ffffff33] min-h-[1px]'></div>
                     <h2 className='text-xl font-extrabold mb-2'>Login</h2>

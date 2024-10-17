@@ -1,5 +1,5 @@
-import React, { useEffect, useRef } from 'react';
 import anime from 'animejs';
+import React, { useEffect, useRef } from 'react';
 
 const LogoLogin = () => {
     const logoRef = useRef(null);
@@ -7,21 +7,25 @@ const LogoLogin = () => {
 
     useEffect(() => {
         // Initial animation
-        anime.timeline({
-            easing: 'easeOutExpo',
-        })
-        .add({
-            targets: logoRef.current,
-            scale: [0, 1],
-            rotate: ['20deg', '0deg'],
-            duration: 1000,
-        })
-        .add({
-            targets: textRef.current,
-            translateX: [-20, 0],
-            opacity: [0, 1],
-            duration: 800,
-        }, '-=400');
+        anime
+            .timeline({
+                easing: 'easeOutExpo',
+            })
+            .add({
+                targets: logoRef.current,
+                scale: [0, 1],
+                rotate: ['20deg', '0deg'],
+                duration: 1000,
+            })
+            .add(
+                {
+                    targets: textRef.current,
+                    translateX: [-20, 0],
+                    opacity: [0, 1],
+                    duration: 800,
+                },
+                '-=400',
+            );
     }, []);
 
     const handleHover = (isEntering) => {
@@ -42,19 +46,17 @@ const LogoLogin = () => {
     };
 
     return (
-        <div 
+        <div
             className='flex items-center cursor-pointer justify-center'
             onMouseEnter={() => handleHover(true)}
             onMouseLeave={() => handleHover(false)}
         >
             <div ref={logoRef}>
-                <img
-                    src='https://www.astralaxis.tech/bold.svg'
-                    alt='Logo'
-                    className='flex h-20 w-20 shrink-0 mr-2'
-                />
+                <img src='https://www.astralaxis.tech/bold.svg' alt='Logo' className='flex h-20 w-20 shrink-0 mr-2' />
             </div>
-            <span ref={textRef} className='ml-2 text-3xl font-bold'>Astral</span>
+            <span ref={textRef} className='ml-2 text-3xl font-bold'>
+                Astral
+            </span>
         </div>
     );
 };
