@@ -60,7 +60,7 @@
 }
 
 .danger {
-    @apply bg-red-600 text-zinc-50;
+    @apply bg-blue-600 text-zinc-50;
     @apply hover:bg-blue-500 focus:ring-red-400 focus:ring-opacity-75 active:bg-red-500;
 
     &.secondary {

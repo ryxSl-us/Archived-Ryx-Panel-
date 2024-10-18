@@ -20,6 +20,9 @@ import HugeIconsDashboardSettings from '@/components/elements/hugeicons/Dashboar
 import HugeIconsHome from '@/components/elements/hugeicons/Home';
 
 import http from '@/api/http';
+import StatusPage from '@/components/statuspage';
+import { AlarmClockCheckIcon, ArrowUpLeftFromCircleIcon, ClockArrowUp, LucideCalendarArrowUp, LucideLayoutDashboard } from 'lucide-react';
+import DashPage from '@/components/dashboard';
 
 export default () => {
     const location = useLocation();
@@ -45,6 +48,8 @@ export default () => {
     // Define refs for navigation buttons.
     const NavigationHome = useRef(null);
     const NavigationSettings = useRef(null);
+    const NavigationStatus = useRef(null);
+    const NavigationAccount = useRef(null);
 
     const calculateTop = (pathname: string) => {
         // Get currents of navigation refs.
@@ -160,6 +165,14 @@ export default () => {
                         <HugeIconsDashboardSettings fill='currentColor' />
                         <p>Settings</p>
                     </NavLink>
+                    <NavLink to={'/status'} end className='flex flex-row items-center'  ref={NavigationSettings}>
+                        <AlarmClockCheckIcon fill='currentColor' />
+                        <p>Status</p>
+                    </NavLink>
+                    <NavLink to={'/dashboard'} end className='flex flex-row items-center'>
+                        <LucideLayoutDashboard fill='currentColor' />
+                        <p>Beta Dash</p>
+                    </NavLink>
                 </ul>
             </MainSidebar>
 
@@ -182,6 +195,9 @@ export default () => {
                             ))}
 
                             <Route path='*' element={<NotFound />} />
+                            <Route path='/status' element={<StatusPage />} />
+                            <Route path='/dashboard' element={<DashPage />} />
+
                         </Routes>
                     </main>
                 </MainWrapper>

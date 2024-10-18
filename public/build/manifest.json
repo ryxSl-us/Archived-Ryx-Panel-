@@ -126,17 +126,17 @@
     "integrity": "sha384-bXNfLJQaWV/EdldDlArUbC3XC53JLLmII5P4ml6oJysCqACavzdblSG/22Ly09Yr"
   },
   "_Home-!~{01i}~.js": {
-    "file": "assets/Home-BCYWz0vd.css",
+    "file": "assets/Home-CyOaVaJR.css",
     "src": "_Home-!~{01i}~.js",
-    "integrity": "sha384-yN1nEXAIlAeZdB4PF/B3XgO1CI4aKCc5X7yfZJlLxYIje22LdMdCxv9SJz5M2Xg/"
+    "integrity": "sha384-Uy7YtHkHZaWKBPdUMYF4DGWuz56iIysjGuCuXdPOwN33UpcS1JPieDj1zqCPnQMM"
   },
-  "_Home-DI_slwK8.js": {
-    "file": "assets/Home-DI_slwK8.js",
+  "_Home-BASqCKaY.js": {
+    "file": "assets/Home-BASqCKaY.js",
     "name": "Home",
     "imports": [
       "_@codemirror-CA_AtaRk.js",
       "_react-Dc2kl7Zc.js",
-      "_PyroLogo-ByaUdb_D.js",
+      "_PyroLogo-CiHRh7mW.js",
       "_easy-peasy-CO9CgWnD.js",
       "_formik-DkEilos9.js",
       "_yup-DMIewIAi.js",
@@ -154,11 +154,12 @@
       "_react-router-FFdZdwPs.js",
       "_react-router-dom-D9SdHZap.js",
       "_swr-CITbXX7R.js",
+      "_animejs-BNELU3II.js",
       "_@fortawesome-BSk6mySn.js",
       "_@radix-ui-BSf6Dw_g.js",
       "_tailwind-merge-BOZU2X2x.js",
       "_uuid-CQkTLCs1.js",
-      "_lucide-react-CCnfK20m.js",
+      "_lucide-react-qdYun9Y0.js",
       "_@xterm-RgcS-I7R.js",
       "_debounce-BO2cL3Xp.js",
       "_react-chartjs-2-C-AoSTuK.js",
@@ -179,12 +180,12 @@
       "resources/scripts/components/server/schedules/ScheduleEditContainer.tsx"
     ],
     "css": [
-      "assets/Home-BCYWz0vd.css"
+      "assets/Home-CyOaVaJR.css"
     ],
-    "integrity": "sha384-XqXIi3j2cHQR2OES5zG5yWBLDGZEbEdzxfKm3vsYesaqLTcgfZdJBxxoN/TM3WpN"
+    "integrity": "sha384-1yH5jWZY4M9wcD4BiCRq8V8PRuyIRBzPw5v1piqzaVDaP3tmPsCffwxewwZ/z9NO"
   },
-  "_PyroLogo-ByaUdb_D.js": {
-    "file": "assets/PyroLogo-ByaUdb_D.js",
+  "_PyroLogo-CiHRh7mW.js": {
+    "file": "assets/PyroLogo-CiHRh7mW.js",
     "name": "PyroLogo",
     "imports": [
       "_react-Dc2kl7Zc.js",
@@ -195,7 +196,7 @@
       "_formik-DkEilos9.js",
       "_animejs-BNELU3II.js"
     ],
-    "integrity": "sha384-NVl8DimJbMkGVZISGa0MDuGpZ9kv4Fx1aY92LfgpOq42/yIV+azQzgsofwncNxB+"
+    "integrity": "sha384-USteaKOdyQThSL0tw+QzR9DRSgJi2WgOH5U6q5Lsqlvn208QsSJ66om9YUrOECen"
   },
   "_animejs-BNELU3II.js": {
     "file": "assets/animejs-BNELU3II.js",
@@ -354,13 +355,13 @@
     "name": "lodash-es",
     "integrity": "sha384-/Ayybw1We8POO6IwGaeR5jCxY+O3o2+SkfQEH5KCQXKlrlTphYGrJ3H/u9SIkR5a"
   },
-  "_lucide-react-CCnfK20m.js": {
-    "file": "assets/lucide-react-CCnfK20m.js",
+  "_lucide-react-qdYun9Y0.js": {
+    "file": "assets/lucide-react-qdYun9Y0.js",
     "name": "lucide-react",
     "imports": [
       "_react-Dc2kl7Zc.js"
     ],
-    "integrity": "sha384-Vak3//0y2vFm8XaSUnDMAzxOdZiqfEDNe0Pz76g5gtFUjkBTjHiFPz9BjyA9Rz8a"
+    "integrity": "sha384-Nr8K9BJgaZZasQ8j95Th4m9d7a0+QcQIRonS2f1zUMtbCFdjwt00wgyEuPCFY/8i"
   },
   "_million-oczrL-3z.js": {
     "file": "assets/million-oczrL-3z.js",
@@ -509,13 +510,13 @@
     "name": "redux-thunk",
     "integrity": "sha384-So0XK0bCC3sh2fwCNENxBlq9OHaabe5NMIpZXdoSQ7tnJiY2TUqvXnvX2U+PTmGT"
   },
-  "_saveFileContents-Bsdj8jcA.js": {
-    "file": "assets/saveFileContents-Bsdj8jcA.js",
+  "_saveFileContents-CAY6hn8h.js": {
+    "file": "assets/saveFileContents-CAY6hn8h.js",
     "name": "saveFileContents",
     "imports": [
       "resources/scripts/index.tsx"
     ],
-    "integrity": "sha384-rT9rvvQf2LjMElLIDG+Jdz/GtZgHkJga/XfEa8afUigYWRqXDmMqE0YV34uZmQuR"
+    "integrity": "sha384-Lk7XYwojt0Sx91BohGI41SKKS55/FZUHrg03yes/n5wo1XS7BGfqBPbj8LFjmt24"
   },
   "_scheduler-CzFDRTuY.js": {
     "file": "assets/scheduler-CzFDRTuY.js",
@@ -665,15 +666,15 @@
     "integrity": "sha384-DgZ8t8uUhr/C84TdbrR+v62bdCvhWjwP3ORDnN87GZDeG+o0zQgK31H52x0wC4Dg"
   },
   "resources/scripts/components/server/features/GSLTokenModalFeature.tsx": {
-    "file": "assets/GSLTokenModalFeature-B7TchPi7.js",
+    "file": "assets/GSLTokenModalFeature-Cx1RdA65.js",
     "name": "GSLTokenModalFeature",
     "src": "resources/scripts/components/server/features/GSLTokenModalFeature.tsx",
     "isDynamicEntry": true,
     "imports": [
       "_react-Dc2kl7Zc.js",
       "_formik-DkEilos9.js",
-      "_PyroLogo-ByaUdb_D.js",
-      "_Home-DI_slwK8.js",
+      "_PyroLogo-CiHRh7mW.js",
+      "_Home-BASqCKaY.js",
       "resources/scripts/index.tsx",
       "_@xterm-RgcS-I7R.js",
       "_deepmerge-DhIoniG1.js",
@@ -730,7 +731,7 @@
       "_use-callback-ref-DgBH4dQF.js",
       "_tailwind-merge-BOZU2X2x.js",
       "_uuid-CQkTLCs1.js",
-      "_lucide-react-CCnfK20m.js",
+      "_lucide-react-qdYun9Y0.js",
       "_debounce-BO2cL3Xp.js",
       "_react-chartjs-2-C-AoSTuK.js",
       "_chart.js-Bu8Ey8cY.js",
@@ -742,18 +743,18 @@
       "_axios-DsPaXkF5.js",
       "_@sentry-DgjHnjGc.js"
     ],
-    "integrity": "sha384-PkBwFpq8ZsAPuiYtxeYF6XYE6ANj/vjTSFCdaJHRC1oYHBD12djPX4C9ba+NqBu7"
+    "integrity": "sha384-zRIg7kKKLzcqvJXsa22bC2NmGZ5eublYK1R5oGNrrcomTQjEWk4riWpVZSweNKHL"
   },
   "resources/scripts/components/server/features/JavaVersionModalFeature.tsx": {
-    "file": "assets/JavaVersionModalFeature-nDnt7VEL.js",
+    "file": "assets/JavaVersionModalFeature-BMSmOJu0.js",
     "name": "JavaVersionModalFeature",
     "src": "resources/scripts/components/server/features/JavaVersionModalFeature.tsx",
     "isDynamicEntry": true,
     "imports": [
       "_react-Dc2kl7Zc.js",
-      "_Home-DI_slwK8.js",
+      "_Home-BASqCKaY.js",
       "resources/scripts/index.tsx",
-      "_PyroLogo-ByaUdb_D.js",
+      "_PyroLogo-CiHRh7mW.js",
       "_@xterm-RgcS-I7R.js",
       "_@codemirror-CA_AtaRk.js",
       "_@lezer-CiyfBrTr.js",
@@ -795,6 +796,7 @@
       "_@remix-run-B0mZiSgO.js",
       "_react-router-dom-D9SdHZap.js",
       "_swr-CITbXX7R.js",
+      "_animejs-BNELU3II.js",
       "_@fortawesome-BSk6mySn.js",
       "_prop-types-BbaQpiKi.js",
       "_@radix-ui-BSf6Dw_g.js",
@@ -809,7 +811,7 @@
       "_use-callback-ref-DgBH4dQF.js",
       "_tailwind-merge-BOZU2X2x.js",
       "_uuid-CQkTLCs1.js",
-      "_lucide-react-CCnfK20m.js",
+      "_lucide-react-qdYun9Y0.js",
       "_debounce-BO2cL3Xp.js",
       "_react-chartjs-2-C-AoSTuK.js",
       "_chart.js-Bu8Ey8cY.js",
@@ -819,21 +821,20 @@
       "_@preact-Bz0C2Wms.js",
       "_pathe-CyIqlarr.js",
       "_axios-DsPaXkF5.js",
-      "_@sentry-DgjHnjGc.js",
-      "_animejs-BNELU3II.js"
+      "_@sentry-DgjHnjGc.js"
     ],
-    "integrity": "sha384-Q/N7mrzhLDwpCiPDaaG1IvnGx60PDniau4c1XUL6Ow8YEdRVpGyh/78tp/lMZ89M"
+    "integrity": "sha384-Nwcl1bCC+YkqR2IjdKTaMPUWYUE4xGDzWZTdKKyYyI5zGwiL9dO0Vo7IjRFPtXUy"
   },
   "resources/scripts/components/server/features/PIDLimitModalFeature.tsx": {
-    "file": "assets/PIDLimitModalFeature-DaX8hPsx.js",
+    "file": "assets/PIDLimitModalFeature-DngD20Mb.js",
     "name": "PIDLimitModalFeature",
     "src": "resources/scripts/components/server/features/PIDLimitModalFeature.tsx",
     "isDynamicEntry": true,
     "imports": [
       "_react-Dc2kl7Zc.js",
       "_easy-peasy-CO9CgWnD.js",
-      "_PyroLogo-ByaUdb_D.js",
-      "_Home-DI_slwK8.js",
+      "_PyroLogo-CiHRh7mW.js",
+      "_Home-BASqCKaY.js",
       "resources/scripts/index.tsx",
       "_@xterm-RgcS-I7R.js",
       "_use-sync-external-store-Dm9_t9BT.js",
@@ -890,7 +891,7 @@
       "_use-callback-ref-DgBH4dQF.js",
       "_tailwind-merge-BOZU2X2x.js",
       "_uuid-CQkTLCs1.js",
-      "_lucide-react-CCnfK20m.js",
+      "_lucide-react-qdYun9Y0.js",
       "_debounce-BO2cL3Xp.js",
       "_react-chartjs-2-C-AoSTuK.js",
       "_chart.js-Bu8Ey8cY.js",
@@ -902,18 +903,18 @@
       "_axios-DsPaXkF5.js",
       "_@sentry-DgjHnjGc.js"
     ],
-    "integrity": "sha384-REsL+SEhg2LhcVILepeYx0Q08R+SxSDp93DXhAqMSTV2YG97s0jhYKFmnV9EmEn4"
+    "integrity": "sha384-r83PKhn+AGh0ryh7MQ2cyM1DVzgf7qoVRr5Ughh931ve0kbd85Z1m9e1nFuZ0dHi"
   },
   "resources/scripts/components/server/features/SteamDiskSpaceFeature.tsx": {
-    "file": "assets/SteamDiskSpaceFeature-BDD0DGsA.js",
+    "file": "assets/SteamDiskSpaceFeature-DRK0mT00.js",
     "name": "SteamDiskSpaceFeature",
     "src": "resources/scripts/components/server/features/SteamDiskSpaceFeature.tsx",
     "isDynamicEntry": true,
     "imports": [
       "_react-Dc2kl7Zc.js",
       "_easy-peasy-CO9CgWnD.js",
-      "_PyroLogo-ByaUdb_D.js",
-      "_Home-DI_slwK8.js",
+      "_PyroLogo-CiHRh7mW.js",
+      "_Home-BASqCKaY.js",
       "resources/scripts/index.tsx",
       "_@xterm-RgcS-I7R.js",
       "_use-sync-external-store-Dm9_t9BT.js",
@@ -970,7 +971,7 @@
       "_use-callback-ref-DgBH4dQF.js",
       "_tailwind-merge-BOZU2X2x.js",
       "_uuid-CQkTLCs1.js",
-      "_lucide-react-CCnfK20m.js",
+      "_lucide-react-qdYun9Y0.js",
       "_debounce-BO2cL3Xp.js",
       "_react-chartjs-2-C-AoSTuK.js",
       "_chart.js-Bu8Ey8cY.js",
@@ -982,18 +983,18 @@
       "_axios-DsPaXkF5.js",
       "_@sentry-DgjHnjGc.js"
     ],
-    "integrity": "sha384-w1EhvMRV3otGaeEskAqGH71Em1Qcgbtzt0WfZIe0mnsRSDxjqtYZ7ddEidUntlSa"
+    "integrity": "sha384-xhAK0cQNzxbkL5L8TAR47j+ckbDiiSE8jEcTmhAHSGlkGfBlpt020ipGDFckYgAq"
   },
   "resources/scripts/components/server/features/eula/EulaModalFeature.tsx": {
-    "file": "assets/EulaModalFeature-DjdvLz-C.js",
+    "file": "assets/EulaModalFeature-CMGlFWQ2.js",
     "name": "EulaModalFeature",
     "src": "resources/scripts/components/server/features/eula/EulaModalFeature.tsx",
     "isDynamicEntry": true,
     "imports": [
       "_react-Dc2kl7Zc.js",
-      "_PyroLogo-ByaUdb_D.js",
-      "_Home-DI_slwK8.js",
-      "_saveFileContents-Bsdj8jcA.js",
+      "_PyroLogo-CiHRh7mW.js",
+      "_Home-BASqCKaY.js",
+      "_saveFileContents-CAY6hn8h.js",
       "resources/scripts/index.tsx",
       "_@xterm-RgcS-I7R.js",
       "_easy-peasy-CO9CgWnD.js",
@@ -1051,7 +1052,7 @@
       "_use-callback-ref-DgBH4dQF.js",
       "_tailwind-merge-BOZU2X2x.js",
       "_uuid-CQkTLCs1.js",
-      "_lucide-react-CCnfK20m.js",
+      "_lucide-react-qdYun9Y0.js",
       "_debounce-BO2cL3Xp.js",
       "_react-chartjs-2-C-AoSTuK.js",
       "_chart.js-Bu8Ey8cY.js",
@@ -1063,10 +1064,10 @@
       "_axios-DsPaXkF5.js",
       "_@sentry-DgjHnjGc.js"
     ],
-    "integrity": "sha384-jaNUMD8PJMxcAlQNKMswfqhQ4mRi0Xra0GvUGjUDf+woguat1EeTmdil/UE1Pl5q"
+    "integrity": "sha384-bBDafgl+E4s4CNq3rj2bB2xRpChjW2htVJNdd+hG9BP8C2cK6dtomLSssuy7QTsn"
   },
   "resources/scripts/components/server/files/FileEditContainer.tsx": {
-    "file": "assets/FileEditContainer-LE8OVjZk.js",
+    "file": "assets/FileEditContainer-DXgBv0pU.js",
     "name": "FileEditContainer",
     "src": "resources/scripts/components/server/files/FileEditContainer.tsx",
     "isDynamicEntry": true,
@@ -1076,12 +1077,12 @@
       "resources/scripts/index.tsx",
       "_million-oczrL-3z.js",
       "_sonner-2NT-CvLT.js",
-      "_PyroLogo-ByaUdb_D.js",
-      "_Home-DI_slwK8.js",
+      "_PyroLogo-CiHRh7mW.js",
+      "_Home-BASqCKaY.js",
       "_formik-DkEilos9.js",
       "_yup-DMIewIAi.js",
       "_pathe-CyIqlarr.js",
-      "_saveFileContents-Bsdj8jcA.js",
+      "_saveFileContents-CAY6hn8h.js",
       "_react-router-FFdZdwPs.js",
       "_@lezer-CiyfBrTr.js",
       "_style-mod-Bc2inJdb.js",
@@ -1113,14 +1114,14 @@
       "_get-nonce-C-Z93AgS.js",
       "_use-sidecar-CFgASv5v.js",
       "_use-callback-ref-DgBH4dQF.js",
-      "_lucide-react-CCnfK20m.js",
+      "_animejs-BNELU3II.js",
+      "_lucide-react-qdYun9Y0.js",
       "_axios-DsPaXkF5.js",
       "_react-fast-compare-8UmgUjMy.js",
       "_@sentry-DgjHnjGc.js",
       "_hoist-non-react-statics-_rn-9jHS.js",
       "_react-is-8JwjhRSi.js",
       "_clsx-B-dksMZM.js",
-      "_animejs-BNELU3II.js",
       "_copy-to-clipboard-CntM9jqO.js",
       "_toggle-selection-BHUZwh74.js",
       "_framer-motion-DRyFkZKl.js",
@@ -1147,18 +1148,18 @@
     "dynamicImports": [
       "resources/scripts/components/elements/editor/Editor.tsx"
     ],
-    "integrity": "sha384-A4HOUsGnBKjYjLOa6OFjR3WD0YEsM60giNXmL46raq5Hycn97qB2jK4+EktDyO7T"
+    "integrity": "sha384-fLlYTbiRt7D9rG0bIrkmM4CI19DwXcfIvb7mgcrfDT/pfQOmMtUn7OQn0MvB2k8u"
   },
   "resources/scripts/components/server/schedules/ScheduleEditContainer.tsx": {
-    "file": "assets/ScheduleEditContainer-CNP-YV7k.js",
+    "file": "assets/ScheduleEditContainer-Dyuu-at1.js",
     "name": "ScheduleEditContainer",
     "src": "resources/scripts/components/server/schedules/ScheduleEditContainer.tsx",
     "isDynamicEntry": true,
     "imports": [
       "_react-Dc2kl7Zc.js",
       "_react-fast-compare-8UmgUjMy.js",
-      "_PyroLogo-ByaUdb_D.js",
-      "_Home-DI_slwK8.js",
+      "_PyroLogo-CiHRh7mW.js",
+      "_Home-BASqCKaY.js",
       "resources/scripts/index.tsx",
       "_easy-peasy-CO9CgWnD.js",
       "_clsx-B-dksMZM.js",
@@ -1201,7 +1202,7 @@
       "_@babel-BiFW4_mA.js",
       "_tailwind-merge-BOZU2X2x.js",
       "_uuid-CQkTLCs1.js",
-      "_lucide-react-CCnfK20m.js",
+      "_lucide-react-qdYun9Y0.js",
       "_debounce-BO2cL3Xp.js",
       "_react-chartjs-2-C-AoSTuK.js",
       "_chart.js-Bu8Ey8cY.js",
@@ -1227,10 +1228,10 @@
       "_toposort-DE75n7oJ.js",
       "_prop-types-BbaQpiKi.js"
     ],
-    "integrity": "sha384-6A0l31BZk7MEmsRERU0Be0brP0/2miNCgzDnKspwAw/7WcUb7/EzbLMFrxot8lHy"
+    "integrity": "sha384-z3H5jd80C8fb8AXpYSxuh93/Unv7Dp/IyvRrg9h2UK+FYyfTTy82MRQfZ7vSOnmN"
   },
   "resources/scripts/index.tsx": {
-    "file": "assets/index-DY8toggf.js",
+    "file": "assets/index-DKzEq60k.js",
     "name": "index",
     "src": "resources/scripts/index.tsx",
     "isEntry": true,
@@ -1246,7 +1247,8 @@
       "_react-router-FFdZdwPs.js",
       "_million-oczrL-3z.js",
       "_@radix-ui-BSf6Dw_g.js",
-      "_lucide-react-CCnfK20m.js",
+      "_animejs-BNELU3II.js",
+      "_lucide-react-qdYun9Y0.js",
       "_axios-DsPaXkF5.js",
       "_react-fast-compare-8UmgUjMy.js",
       "_@sentry-DgjHnjGc.js",
@@ -1283,12 +1285,12 @@
       "resources/scripts/routers/AuthenticationRouter.tsx"
     ],
     "css": [
-      "assets/index-DcFu9HHF.css"
+      "assets/index-Cp1pTkaP.css"
     ],
-    "integrity": "sha384-9cqEPZtJ2+Q1T+YasfnqFu4KLsgwQ5wqaTzWv+MiGVq53Ss5HmjMdwu03Y9Al8bn"
+    "integrity": "sha384-CFZC86UeY9+zwAq14pi1Ld3DIrk27kGOzZ4g7iwZuup0G6O7/X8q17b4y3QoNVg/"
   },
   "resources/scripts/routers/AuthenticationRouter.tsx": {
-    "file": "assets/AuthenticationRouter-BGbgwZNY.js",
+    "file": "assets/AuthenticationRouter-GgVYV0rn.js",
     "name": "AuthenticationRouter",
     "src": "resources/scripts/routers/AuthenticationRouter.tsx",
     "isDynamicEntry": true,
@@ -1298,7 +1300,7 @@
       "_formik-DkEilos9.js",
       "_reaptcha-BUHifOcp.js",
       "_yup-DMIewIAi.js",
-      "_PyroLogo-ByaUdb_D.js",
+      "_PyroLogo-CiHRh7mW.js",
       "resources/scripts/index.tsx",
       "_react-router-dom-D9SdHZap.js",
       "_react-router-FFdZdwPs.js",
@@ -1341,16 +1343,16 @@
       "_get-nonce-C-Z93AgS.js",
       "_use-sidecar-CFgASv5v.js",
       "_use-callback-ref-DgBH4dQF.js",
-      "_lucide-react-CCnfK20m.js",
+      "_lucide-react-qdYun9Y0.js",
       "_axios-DsPaXkF5.js",
       "_react-fast-compare-8UmgUjMy.js",
       "_@sentry-DgjHnjGc.js",
       "_@remix-run-B0mZiSgO.js"
     ],
-    "integrity": "sha384-GcRrTpMNfzSww1Gjsy/SNCsac49LgsF8F1JSIGM+wl5NiGmljzJhZj5EL0/qMhKG"
+    "integrity": "sha384-GtIjD4LsxKwqMjL/SGagca+dMyG8SEE0Z3LqDYqFzuXUzOQ2zJojFBP5FOHskQSw"
   },
   "resources/scripts/routers/DashboardRouter.tsx": {
-    "file": "assets/DashboardRouter-B1RoADWj.js",
+    "file": "assets/DashboardRouter-DIT7LuQQ.js",
     "name": "DashboardRouter",
     "src": "resources/scripts/routers/DashboardRouter.tsx",
     "isDynamicEntry": true,
@@ -1358,14 +1360,14 @@
       "_react-Dc2kl7Zc.js",
       "_easy-peasy-CO9CgWnD.js",
       "_react-router-dom-D9SdHZap.js",
-      "_Home-DI_slwK8.js",
+      "_Home-BASqCKaY.js",
       "_swr-CITbXX7R.js",
       "_styled-components-C7X8SC8Z.js",
       "resources/scripts/index.tsx",
       "_@radix-ui-BSf6Dw_g.js",
-      "_PyroLogo-ByaUdb_D.js",
+      "_PyroLogo-CiHRh7mW.js",
       "_react-router-FFdZdwPs.js",
-      "_lucide-react-CCnfK20m.js",
+      "_lucide-react-qdYun9Y0.js",
       "_@xterm-RgcS-I7R.js",
       "_use-sync-external-store-Dm9_t9BT.js",
       "_@babel-BiFW4_mA.js",
@@ -1400,6 +1402,7 @@
       "_@headlessui-DtNwt01G.js",
       "_date-fns-0txtGnJx.js",
       "_qrcode.react-B6AjQ8yl.js",
+      "_animejs-BNELU3II.js",
       "_@fortawesome-BSk6mySn.js",
       "_prop-types-BbaQpiKi.js",
       "_tailwind-merge-BOZU2X2x.js",
@@ -1424,13 +1427,12 @@
       "_react-style-singleton-CatOi7ii.js",
       "_get-nonce-C-Z93AgS.js",
       "_use-sidecar-CFgASv5v.js",
-      "_use-callback-ref-DgBH4dQF.js",
-      "_animejs-BNELU3II.js"
+      "_use-callback-ref-DgBH4dQF.js"
     ],
-    "integrity": "sha384-hFQiSAVjfT41VIQrLHoG0Cfecn7d4IK3JDHb9dPUCQ+POVjufQl6+N4wpI8K6Eiv"
+    "integrity": "sha384-R7b0DNb5W8Sj9wJNN322az9ipsSf72/gvl2/Ri0bAm8ajO5AyicjxApKEH2Bk7h+"
   },
   "resources/scripts/routers/ServerRouter.tsx": {
-    "file": "assets/ServerRouter-KkFomYRg.js",
+    "file": "assets/ServerRouter-G1lWHRLM.js",
     "name": "ServerRouter",
     "src": "resources/scripts/routers/ServerRouter.tsx",
     "isDynamicEntry": true,
@@ -1438,13 +1440,15 @@
       "_react-Dc2kl7Zc.js",
       "_easy-peasy-CO9CgWnD.js",
       "_react-router-dom-D9SdHZap.js",
-      "_Home-DI_slwK8.js",
+      "_Home-BASqCKaY.js",
       "resources/scripts/index.tsx",
-      "_PyroLogo-ByaUdb_D.js",
+      "_PyroLogo-CiHRh7mW.js",
       "_cmdk-CrJ6P5UE.js",
       "_sonner-2NT-CvLT.js",
       "_million-oczrL-3z.js",
       "_react-router-FFdZdwPs.js",
+      "_animejs-BNELU3II.js",
+      "_lucide-react-qdYun9Y0.js",
       "_swr-CITbXX7R.js",
       "_events-CXH2uRM3.js",
       "_sockette-B7QvlZiL.js",
@@ -1497,7 +1501,6 @@
       "_use-callback-ref-DgBH4dQF.js",
       "_tailwind-merge-BOZU2X2x.js",
       "_uuid-CQkTLCs1.js",
-      "_lucide-react-CCnfK20m.js",
       "_debounce-BO2cL3Xp.js",
       "_react-chartjs-2-C-AoSTuK.js",
       "_chart.js-Bu8Ey8cY.js",
@@ -1507,9 +1510,8 @@
       "_@preact-Bz0C2Wms.js",
       "_pathe-CyIqlarr.js",
       "_axios-DsPaXkF5.js",
-      "_@sentry-DgjHnjGc.js",
-      "_animejs-BNELU3II.js"
+      "_@sentry-DgjHnjGc.js"
     ],
-    "integrity": "sha384-mHudMMY9nRg/l5cF03ZNZV/DDe1THFnEx2FT8rQ6r0CeO0gDutgqjhOdV64x8gQ3"
+    "integrity": "sha384-SVHX+XfMdFvhJ5r1Zv8TyZyzOQDgo+4J7sjw8IGMESrik/t2B449u84dycguAtH+"
   }
 }
